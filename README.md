@@ -54,5 +54,12 @@ These modules allow us to **efficiently process images, extract meaningful data,
 
 ---
 
+## 🔎 Keywords & Tags
+#geophysics  #resistivity  #GIS  #PythonImageProcessing  #imageanalysis  #imaging  #depthvisualization   #heatmap
+#terrameter  #automateddataextraction  #openpyxl  #colourextraction  #imagetocells  #soilresistivity  #excel
+#Pillow  #geospatialanalysis  #subsurfaceimaging  #subsurface  #earthresistivity  #RGB  #coloranalysis  
+
+---
+
 ## 🤝 Contributions & Feedback
 This project is a work in progress! Feel free to **contribute, suggest improvements, or fork the repo**. 🚀
