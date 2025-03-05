@@ -7,6 +7,8 @@ This project automates the process of extracting resistivity data from **terrame
 - **Outputs structured data (CSV & Excel heatmap)** for analysis.
 - **Prepares for GIS integration**, where HEX colors will be replaced with resistivity values and georeferenced.
 
+The uploaded files are inclusive of the **input image file** as sample along with the **python script** written in Jupyter Notebook.
+
 This is the **first step** in streamlining **geophysical data analysis**, ultimately generating **depth-based resistivity rasters** in GIS.
 
 ---
